@@ -1,0 +1,23 @@
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\bin\Debug\SmartMarket.exe.config
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\bin\Debug\SmartMarket.exe
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\bin\Debug\SmartMarket.pdb
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csprojAssemblyReference.cache
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.App.resources
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.Properties.Resources.resources
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.GenerateResource.cache
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.CoreCompileInputs.cache
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.exe
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.pdb
+C:\Users\Glenda Barrios\source\repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.CrearCuenta.resources
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\bin\Debug\SmartMarket.exe.config
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\bin\Debug\SmartMarket.exe
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\bin\Debug\SmartMarket.pdb
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.AssemblyReference.cache
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.App.resources
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.CrearCuenta.resources
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.Properties.Resources.resources
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.GenerateResource.cache
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.exe
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.pdb
+C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.IniciarSesion.resources
