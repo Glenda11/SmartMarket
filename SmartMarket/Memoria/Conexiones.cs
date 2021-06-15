@@ -213,7 +213,6 @@ namespace SmartMarket.Memoria
 
             return listT;
         }
-        }
-
     }
+
 }
