@@ -21,3 +21,15 @@ C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.Co
 C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.exe
 C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.pdb
 C:\Users\gabri\workspace\SmartMarket\SmartMarket\obj\Debug\SmartMarket.IniciarSesion.resources
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\bin\Debug\SmartMarket.exe.config
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\bin\Debug\SmartMarket.exe
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\bin\Debug\SmartMarket.pdb
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.AssemblyReference.cache
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.App.resources
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.CrearCuenta.resources
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.IniciarSesion.resources
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.Properties.Resources.resources
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.GenerateResource.cache
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.csproj.CoreCompileInputs.cache
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.exe
+C:\Users\Marat Meitchouk\Source\Repos\SmartMarket\SmartMarket\obj\Debug\SmartMarket.pdb

@@ -81,10 +81,10 @@
             // 
             this.pbImagen.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pbImagen.Image = global::SmartMarket.Properties.Resources.LogoSmartMarket;
-            this.pbImagen.Location = new System.Drawing.Point(163, 48);
+            this.pbImagen.Location = new System.Drawing.Point(176, 49);
             this.pbImagen.Margin = new System.Windows.Forms.Padding(2);
             this.pbImagen.Name = "pbImagen";
-            this.pbImagen.Size = new System.Drawing.Size(274, 263);
+            this.pbImagen.Size = new System.Drawing.Size(261, 263);
             this.pbImagen.TabIndex = 1;
             this.pbImagen.TabStop = false;
             // 
